@@ -36,7 +36,7 @@ The dataset was preprocessed to clean text data, remove noise, and tokenize sent
   - Natural Language Toolkit (NLTK) & spaCy (NLP)
   - Matplotlib & Seaborn (data visualization)
   - Flask(web interface)
-- **Tools:** Jupyter Notebook, VSCode
+- **Tools:** Google Colab Notebook, VSCode
 
 ---
 
